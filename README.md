@@ -7,7 +7,3 @@
 - [x] Be brave giving the first step on career changing;
 - [] Be hired.
 
-## Adding stuff for GIT training (add, commit and restore commands)
-
-Blablabla
-blablabla
